@@ -41,7 +41,7 @@ public class part1 {
 
     //  Method with one String argument
     public static void helloname(String name) {
-        System.out.println("Hello, " + name + "!");
+        System.out.println("Hello, " + name);
     }
 
 
@@ -66,7 +66,7 @@ public class part1 {
 
     // . Method returning String
     public static String Greeting(String name) {
-        return "Nice to meet you, " + name + "!";
+        return "Nice to meet you, " + name;
     }
 
 
