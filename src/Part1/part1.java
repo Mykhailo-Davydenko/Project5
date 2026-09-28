@@ -17,13 +17,13 @@ public class part1 {
         int sum = addNumbers(10, 5);
         System.out.println("sum is " + sum);
 
-        double division = divideNumbers(10.0, 4.0);
+        double division = divideNumbers(10, 4);
         System.out.println("division result is: " + division);
 
         String greeting = Greeting("Misha");
         System.out.println("String result: " + greeting);
 
-        boolean adult = isAdult(20);
+        boolean adult = isAdult(17);
         System.out.println("Boolean result: " + adult);
 
 

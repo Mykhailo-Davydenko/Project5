@@ -2,7 +2,7 @@ package Part2;
 /**
  * Pseudocode
  * Main block:
- * 1. Welcome user.
+ * 1. Welcome
  * 2. Run recommendation program.
  * * Recommendation block:
  *  1. Ask for name.
